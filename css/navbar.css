@@ -1,0 +1,9 @@
+/*네브바 색상*/
+.navbar{
+  background-color: rgba(150, 150, 150, 0.54);
+}
+.icon-bar{
+    background-color: black;
+}
+a:hover{color:rgb(170, 204, 170);}
+/**/
